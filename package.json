@@ -1,0 +1,32 @@
+{
+  "name": "cleint_side_header_bidder",
+  "version": "1.0.0",
+  "description": "Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalganjan/MediaNetClientSideHeaderBidder.git"
+  },
+  "author": "Dalganjan",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "gulp": "^3.9.1",
+    "bootstrap": "^4.4.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Dalganjan/MediaNetClientSideHeaderBidder/issues"
+  },
+  "homepage": "https://github.com/Dalganjan/MediaNetClientSideHeaderBidder#readme"
+}
